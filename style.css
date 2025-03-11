@@ -90,6 +90,7 @@ body {
 }
 
 .header-content p {
+    text-align: center;
     font-size: 40px; 
     font-weight: 600;
     color: #ffee00af;
